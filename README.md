@@ -1,1 +1,1 @@
-# Lrn.AI-Chatbot
+# Learn.AI-Chatbot
